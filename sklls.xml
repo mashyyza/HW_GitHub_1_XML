@@ -1,0 +1,5 @@
+<xml>
+	<nummberOfProgram>"5"</nummberOfProgram>
+	<nameProgram>"Postman", "GitBush", "Jmeter", "Jira", "Swagger"</nameProgram>
+	<testDocumentation>"TestPlane","СheckList", "TestCase"</testDocumentation>
+	<WebBasics>"HTML", "CSS" </WebBasics>
