@@ -1,1 +1,8 @@
+<xml>
+        <id>"1"</id>
+        <Summary>"pages when switching to the Ukrainian language is not localized"</Summary>
+        <Precondition>"Open www.medecine.com" , "the user is registered and authorized"</Precondition>
+        <Steps>"In the upper right corner switch the language from Rus to Ukr"</Steps>
+        <Actualresult>"All information on the site is not displayed in Ukrainian"</Actualresult>
+        <Expected>"All information on the site is displayed in Ukrainia"</Expected>
 
